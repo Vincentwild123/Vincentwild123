@@ -2,5 +2,5 @@
 🔭 I’m currently working on alibaba  
 🌱 I’m currently learning typescript  
 👯 I’m looking to collaborate on front-end  
-📫 emails: wjchen1999@163.con
+📫 emails: wjchen1999@163.com  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vincentwild123 )](https://github.com/anuraghazra/github-readme-stats)
