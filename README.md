@@ -1,4 +1,4 @@
-##    💯生命不息，奋斗不止
+##    💯
 🔭 I’m currently working on home 
 🌱 I’m currently learning flutter 
 👯 I’m looking to collaborate on front-end  
